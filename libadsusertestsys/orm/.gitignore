@@ -1,0 +1,12 @@
+target/
+*.iml
+*.sqlite3
+.idea/
+venv/
+__pycache__/
+orm_env
+*.bak
+vocabulary_size_estimator.py
+vocabulary_size_estimator_v2.py
+vocabulary_size_estimator_v21.py
+vocabulary_size_estimator_v3.py
